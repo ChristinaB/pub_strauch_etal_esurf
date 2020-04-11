@@ -1,3 +1,5 @@
+Click here to Launch Interactive Notebooks (Python 2.7 and Landlab version 1.9)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChristinaB/pub_strauch_etal_esurf/master)
 
 # pub_strauch_etal_esurf
